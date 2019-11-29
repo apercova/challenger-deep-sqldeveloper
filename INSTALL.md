@@ -23,4 +23,4 @@ Example:
 - Launch SQL Developer. Navigate to menu Tools->Preferences, then select item Code Editor -> PL/SQL Syntax Colors in the left pane.
 
 - Select theme in the "Scheme" drop down list on the top.  
-![](images/dracula_select.png)
+![](images/theme_select.png)
