@@ -147,8 +147,8 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="replace-results-highlight" enabled="true" priority="78" usefg="true" frgb="-10113793" usebg="true" brgb="-14803919" fs="0" us="0" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="code-highlight" enabled="true" priority="75" usefg="true" frgb="-5570588" usebg="true" brgb="-11119243" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="code-highlight-secondary" enabled="true" priority="76" usefg="true" frgb="-5718" usebg="true" brgb="-11119243" fs="0" us="-1" urgb="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="brace-match1-highlight" enabled="true" priority="80" usefg="true" frgb="-5570588" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="brace-match2-highlight" enabled="true" priority="80" usefg="true" frgb="-10113793" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="brace-match1-highlight" enabled="true" priority="80" usefg="true" frgb="-5718" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="brace-match2-highlight" enabled="true" priority="80" usefg="true" frgb="-5570588" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="brace-mismatch-highlight" enabled="true" priority="80" usefg="true" frgb="-19592" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="enclosing-parens-highlight" enabled="true" priority="79" usefg="true" frgb="-5570588" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="enclosing-block-highlight" enabled="true" priority="79" usefg="true" frgb="-5570588" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
@@ -192,8 +192,8 @@
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="find-select-region" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="folded-block-highlight" enabled="true" priority="99" usefg="false" frgb="0" usebg="false" brgb="0" fs="2" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="folding-fade-highlight" enabled="true" priority="100" usefg="false" frgb="0" usebg="true" brgb="-14803919" fs="0" us="-1" urgb="0"/>
-                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="tab-field" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-14144970" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="todo-style" enabled="true" priority="20" usefg="true" frgb="-65281" usebg="false" brgb="0" fs="0" us="-1" urgb="0"/>
+                  <Item class="oracle.ide.ceditor.options.S2Highlight" name="tab-field" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-14144970" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="template-current-field" enabled="true" priority="75" usefg="false" frgb="0" usebg="true" brgb="-4144960" fs="0" us="-1" urgb="0"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="audit-error" enabled="true" priority="60" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-43691"/>
                   <Item class="oracle.ide.ceditor.options.S2Highlight" name="audit-warning" enabled="true" priority="55" usefg="false" frgb="0" usebg="false" brgb="0" fs="0" us="4" urgb="-10587"/>
